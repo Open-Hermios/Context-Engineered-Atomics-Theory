@@ -1,3 +1,3 @@
 # Context Engineered Atomics
 
-[See LaTeX](CDR.md)
+[See LaTeX](CDE.md)
